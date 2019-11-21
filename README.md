@@ -1,1 +1,1 @@
-나는야 천재.
+Hello world
